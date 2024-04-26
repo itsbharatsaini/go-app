@@ -28,7 +28,7 @@ jobs:
     - name: Check GolangCI-Lint
       run: ./bin/golangci-lint --version 
 
-    - name: Run GolangCI-Lint
+    - name: Run GolangCI-Lint - Code Analysis
       run: ./bin/golangci-lint run
 
     - name: Build
