@@ -1,0 +1,11 @@
+linters:
+  enable:
+    - revive
+    - govet
+    - staticcheck
+issues:
+  exclude-dirs-use-default: false
+  exclude:
+    - vendor/
+run:
+  issues-exit-code: 1
