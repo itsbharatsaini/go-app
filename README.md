@@ -13,13 +13,13 @@ Follow these steps to run the Go application locally:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/itsbharatsaini/go-app.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd <project-directory>
+    cd go-app
     ```
 
 3. Build the Go application:
